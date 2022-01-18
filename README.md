@@ -1,2 +1,2 @@
-# sontungdo.github.io
-Personal page
+# Personal page
+Online Resume of Son Tung (Bill) Do
