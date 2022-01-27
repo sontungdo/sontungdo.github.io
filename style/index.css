@@ -137,7 +137,8 @@ body {
   border-top: none;
 }
 .section {
-    padding-bottom: 10px;
-    padding-top: 40px;
+    background-color: #ffffff;
+    padding-bottom: 25px;
+    padding-top: 25px;
     position: relative;
 }
